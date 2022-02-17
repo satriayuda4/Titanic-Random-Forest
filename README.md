@@ -1,1 +1,1 @@
-# Machine-Learning
+# Titanic Classification using Random Forest Algorithm
